@@ -81,3 +81,5 @@ gem 'activeresource', require: 'active_resource'
 gem "figaro"
 
 gem "fog-aws"
+
+gem "mini_magick"

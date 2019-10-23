@@ -73,3 +73,11 @@ end
 gem 'simple_form'
 
 gem 'devise'
+
+gem 'carrierwave', '~> 1.0'
+
+gem 'activeresource', require: 'active_resource'
+
+gem "figaro"
+
+gem "fog-aws"
